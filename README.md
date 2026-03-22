@@ -37,7 +37,7 @@ int main(int argc, char *argv[]) {
 }
 ```
 
-## Task 2: Profile the Naive Matrix Multiplicatio
+## Task 2: Profile the Naive Matrix Multiplication
 
 Compute the arithmetic intensity (AI) of your naive matrix multiplication code for matrices of size `4096 x 4096` elements (consult the Getting the Arithmetic Intensity section below for advice on how to do this) when running on 64 threads on a single Perlmutter CPU node.
 Include your job submission script in this repository, as well as the full output from your CrayPat experiment.
